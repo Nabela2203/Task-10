@@ -1,0 +1,17 @@
+class Practice:
+    def mini_task(self):
+        pass
+    def cutomer_invoice(self):
+        pass
+    def movie(self):
+        pass
+    def tv_class(self):
+        pass
+    def class_circle(self):
+        pass
+    def ecommerce(self):
+        pass
+    def music_player(self):
+        pass
+
+obj=Practice()
